@@ -1,4 +1,4 @@
-int ledPin = /*Your LED pin*/0; 
+int ledPin = /*Your LED pin*/NULL; 
 void setup() {
 pinMode(ledPin,OUTPUT);
 }
