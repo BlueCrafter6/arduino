@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "port": "COM9",
-    "sketch": "Project 5\\RGB_Light\\RGB_Light.ino"
-}
