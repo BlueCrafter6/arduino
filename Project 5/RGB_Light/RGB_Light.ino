@@ -1,6 +1,6 @@
-int redPin = /*your pin number*/NULL;
-int greenPin = /*your pin number*/NULL;
-int bluePin = /*your pin number*/NULL;
+int redPin = /*your pin number*/;
+int greenPin = /*your pin number*/;
+int bluePin = /*your pin number*/;
 
 void setup() {
   pinMode(redPin, OUTPUT);
