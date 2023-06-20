@@ -1,2 +1,6 @@
 # arduino
-Tutorial code for videos on the Blue 2 Crafter Channel
+Welcome to the Blue 2 Crafter Arduino tutorial repository.
+
+# You will find
+- 💻 Code for tutorials
+- 🔗 Video links to tutorials
